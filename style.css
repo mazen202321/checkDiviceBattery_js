@@ -1,0 +1,16 @@
+.hedBrity{
+font-size: xx-large;
+text-transform: capitalize;
+
+}
+.p_brity{
+    font-size: medium;
+    text-transform: capitalize;
+    padding: 20px;
+}
+.battery{
+    color: cornflowerblue;
+    font-size: 26px;
+    padding: 30px;
+
+}
